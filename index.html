@@ -5,7 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
+  <link rel="stylesheet" href="css/style.css">
+  <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
   <title>Frontend Mentor | Huddle landing page with single introductory section</title>
 
   <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
@@ -16,17 +17,30 @@
 </head>
 <body>
 
-  Build The Community Your Fans Will Love
-
-  Huddle re-imagines the way we build communities. You have a voice, but so does your audience. 
-  Create connections with your users as you engage in genuine discussion. 
-
-  Register
+<header>
+  <img srcset="images/logo.svg images/logo.svg 1.5x images/logo.svg 2x" src="images/logo.svg" alt="" class="logo">
+</header>
+<main>
+  <div class="hero-images">
+    <img src="images/illustration-mockups.svg" alt="" class="primary-img">
+  </div>
+  <div class="content">
+    <h1>Build The Community</h1>
+    <h1>Your Fans Will Love</h1>
+    <p class="description">Huddle re-imagines the way we build communities. Yoiu have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.</p>
+    <button class="btn">Register</button>
+  </div>
+</main>
 
   <footer>
+    <div class="social-links">
+      <a href="#"><i class='bx bxl-facebook'></i></a>
+      <a href="#"><i class='bx bxl-twitter'></i></a>
+      <a href="#"><i class='bx bxl-instagram'></i></a>
+    </div>
     <p class="attribution">
       Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-      Coded by <a href="#">Your Name Here</a>.
+      Coded by <a href="#">Saad Rahman</a>.
     </p>
   </footer>
 </body>
