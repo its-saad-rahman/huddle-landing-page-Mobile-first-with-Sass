@@ -14,7 +14,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -32,7 +32,7 @@ Users should be able to:
 
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+
 
 ### Links
 
@@ -49,15 +49,12 @@ Users should be able to:
 - Mobile-first workflow
 - SASS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 ## Author
 
 - Frontend Mentor - [@its-saad-rahman](https://www.frontendmentor.io/profile/its-saad-rahman)
 
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
 
 
