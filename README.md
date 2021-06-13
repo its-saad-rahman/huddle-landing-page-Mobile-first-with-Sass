@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://its-saad-rahman.github.io/huddle-landing-page-mobile-first-with-sass/)
+-  [Live Site URL](https://its-saad-rahman.github.io/huddle-landing-page-mobile-first-with-sass/)
 
 ## My process
 
